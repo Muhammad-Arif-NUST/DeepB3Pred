@@ -20,6 +20,6 @@ Keras=2.1.6
 
 **The data contains training dataset and testing dataset. Training dataset  TR_BB.fasta includes BBB_pos and BBB_neg training samples. Testing dataset TS_BB includes BBB_pos and BBB_neg testing samples
 
-**Feature_Extraction: CPSR is the implementation of component protein sequence representation. mctd is the implementation of composition-transition and distribution, GSFE
-is the implementation of Graphical and statistical-based feature engineering 
+**Feature_Extraction: CPSR is the implementation of component protein sequence representation. mctd is the implementation of composition-transition and distribution, GSFE is the implementation of Graphical and statistical-based feature engineering.
+
 ** Classifier: DeepB3Pred.py is the implementation of proposed method to predict B3PPs  and non-B3PPs.
